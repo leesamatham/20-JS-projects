@@ -2,6 +2,23 @@ step 1:background image - circuit board from https://heropatterns.com/
 step 2:Add font montsarrat - https://fonts.google.com/specimen/Montserrat?query=montsarrat
 ----------------HTML and CSS --------------------------------------------------------
 
-shoort cut: alt  + Z - long line text is neatly formated
+short cut: alt  + Z - long line text is neatly formated
 
 API:https://type.fit/api/quotes
+
+short cut: ctrl + d to select all selected words/code
+
+There is an alternative option for this project that does not require an API key - https://zenquotes.io/
+
+Sample Requests
+https://zenquotes.io/api/quotes - Generate a JSON array of 50 random quotes on each request
+ 
+https://zenquotes.io/api/today - Generate the quote of the day on each request
+ 
+https://zenquotes.io/api/random - Generate a random quote on each request
+
+
+Tweet a quote program using function
+
+https://developer.twitter.com/en/docs/twitter-for-websites/tweet-button/guides/web-intent
+
